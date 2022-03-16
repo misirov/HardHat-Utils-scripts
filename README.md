@@ -15,6 +15,10 @@ npm install --save-dev "hardhat@^2.9.1" "@nomiclabs/hardhat-waffle@^2.0.0" "ethe
 - See pending transactions (miner must be off)
 
 #### Make sure you have a node running on 127.0.0.1:8545
-`npx hardhat node`
-`npx hardhat node --fork <REMOTE NODE API>`
+```
+npx hardhat node
+```
+```
+npx hardhat node --fork <REMOTE NODE API>
+```
 
