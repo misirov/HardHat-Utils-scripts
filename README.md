@@ -13,7 +13,7 @@ npm install --save-dev "hardhat@^2.9.1" "@nomiclabs/hardhat-waffle@^2.0.0" "ethe
 - Turn miner ON and OFF
 - Simulate 2 accounts sending random amounts of ETH between each other
 - See pending transactions (miner must be off)
-- Impersonate whale account to send yourself X token
+- Impersonate whale account to send yourself X token (fork)
 
 #### Make sure you have a node running on 127.0.0.1:8545
 ```
